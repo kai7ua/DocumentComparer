@@ -23,9 +23,9 @@ public class TextDocument {
                 }
             }
         } catch (FileNotFoundException e) {
-            System.out.println("This file1.txt doesn't exist.");
+            System.out.println("This file doesn't exist.");
         } catch (IOException e) {
-            System.out.println("Can't read file1.txt.");
+            System.out.println("Can't read file.");
         }
     }
 
