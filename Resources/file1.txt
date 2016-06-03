@@ -1,0 +1,10 @@
+Felix the Cat
+100 Main Street, Springfield, WA, 99999
+(555) 555-5555
+Objective
+Get an entry level Java job
+Skills
+Eclipse, OOP, Java, TestNG, Emma/Cobertura, Maven, Python
+Data structures
+Education
+AAS, Highline College, 2016

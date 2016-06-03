@@ -1,0 +1,16 @@
+Entry Level Java Developer
+JOB DESCRIPTION:
+Develop client applications and solutions per design, budget, and timelines. Maintain web
+applications using standard APIs Identify and report potential development issues
+impacting timeline and/or budget. Perform unit testing for developed software. Keeping up
+to date with technical, as well as industry sector developments. Complete work
+orders/task as assigned and within allotted time frame Work closely with the development
+team members to execute Develop a professional working relationship with company
+employees throughout the organization. Perform other related job duties as assigned.
+QUALIFICATIONS:
+Bachelor’s degree in Computer Science or a related field, or equivalent work experience.
+Familiarity with JUnit, unit testing and continuous integration best practices
+Solid understanding of OOP and design patterns
+Solid understanding of the full software development lifecycle (SDLC)
+Experience with Service-Oriented Architecture and Web Services (REST, SOAP, JSON)
+Experience with Maven is a plus Proficiency with Linux.
